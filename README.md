@@ -1,2 +1,1 @@
-# css-center-alignment
-Created with CodeSandbox
+# CSS 중앙 정렬 예제
